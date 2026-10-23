@@ -32,7 +32,7 @@ Halo semua👋🏻, nama samaranku adalah Algaf yang mulai tertarik dengan codin
    
 ### 🗄️ Manajemen Basis Data
 
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql" width="20" height="20" alt="MYSQL"> MySQL
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="20" height="20" alt="MYSQL"> MySQL
 2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/036b62fe-41c9-43bf-a820-248072790b88" /> Php My Admin
 
 ### 🤖 AI Agents
