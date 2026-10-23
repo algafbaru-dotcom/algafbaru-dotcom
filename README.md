@@ -1,7 +1,7 @@
 # Algaf
 
 ## Sedikit Tentang Saya
-Halo semua👋🏻, nama samaranku adalah Algaf yang mulai tertarik dengan coding dari usia 13 tahun karena menciptakan sesuatu adalah hal yang saya paling suka. Tapi skill coding saya masih belum sejago itu dalam dunia coding ini, jadi jika ada kesalahan tolong perbaiki dan jangan memaki saya. Saya juga sering memanfaatkan Ai Agents untuk membuat projek - projek keren. 
+Halo semua👋🏻, nama samaranku adalah Algaf. Saya mulai tertarik dengan coding dari usia 13 tahun karena menciptakan sesuatu adalah hal yang saya paling suka. Tapi skill coding saya masih belum sejago itu dalam dunia coding ini, jadi jika ada kesalahan tolong perbaiki dan jangan memaki saya. Saya juga sering memanfaatkan Ai Agents untuk membuat projek - projek keren. 
 
 ## Teknologi yang Digunakan Saya
 
