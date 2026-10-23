@@ -48,4 +48,9 @@ Bahasa Pemrograman yang paling ku suka saat saat ini adalah <img src="https://ra
 
 > 💬 *"Saya selalu memilih orang malas untuk melakukan pekerjaan sulit. Karena, orang malas akan mencari cara mudah untuk menyelesaikannya."* — **Bill Gates**
 
+## Kenal Saya Lebih Dalam 
+
+1. [Akun Tiktok Saya](tiktok.com/@algafbaru)
+
+
 **TERIMA KASIH SUDAH MAMPIR 🙏**
