@@ -26,7 +26,7 @@ Halo semua👋🏻, namaku adalah Alvaro dan nama sebutanku adalah Algaf. Saya m
 ### ⚙️ Runtime Environment
 1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="25" height="25" alt="Node "> Node.js
 
-### 🖧 Aplikasi Server Lokal
+### ⚡ Aplikasi Server Lokal
 
 1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/2710a3c0-3637-4074-9918-ed39a93240cd" /> Laragon
    
