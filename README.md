@@ -42,7 +42,7 @@ Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesi
 
 ## Favorite & Frequently Used Programming Languages
 
-My favorite programming language right now is <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> JavaScript, because it's very versatile and has many great frameworks. For instance, the ones I use are <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> Vue and also <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="20" height="20" alt="React"> React 
+My favorite programming language right now is <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> JavaScript, because it's very versatile and has many great frameworks. For instance, the ones I use are <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> Vue 
 
 <hr>
 
