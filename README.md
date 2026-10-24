@@ -18,6 +18,8 @@ Halo semua👋🏻, namaku adalah Alvaro dan nama sebutanku adalah Algaf. Saya m
 
 ### 📟 Bahasa Pemrograman CLI
 1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="20" height="20" alt="Bash"> Bash
+2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/aee77621-3aca-41cc-99e5-958e727cfdef" /> Powershell 
+
 
 ### 🧩 Framework
 1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> Vue
