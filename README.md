@@ -47,7 +47,13 @@ Halo semua👋🏻, namaku adalah Alvaro dan nama sebutanku adalah Algaf. Saya m
 Bahasa Pemrograman yang paling ku suka saat saat ini adalah <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> Javascript, karena bahasa ini sangat serbaguna dan banyak framework yang bagus, contohnya yang adalah aku pakai yaitu <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> Vue dan yang lain yaitu <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="20" height="20" alt="React"> React 
 
 <hr>
+## Kenal Saya Lebih Dalam
 
+Akun Sosial Media
+1. [Akun tiktok saya](tiktok.com/@algafbaru)
+
+Sertifikat dan Prestasi saya
+1. [Sertifikat HTML Free Code Camp](https://www.freecodecamp.org/certification/algaf/responsive-web-design)
 > 💬 *"Saya selalu memilih orang malas untuk melakukan pekerjaan sulit. Karena, orang malas akan mencari cara mudah untuk menyelesaikannya."* — **Bill Gates**
 
 **TERIMA KASIH SUDAH MAMPIR 🙏**
