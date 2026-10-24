@@ -51,7 +51,7 @@ Bahasa Pemrograman yang paling ku suka saat saat ini adalah <img src="https://ra
 ## Kenal Saya Lebih Dalam
 
 Akun Sosial Media
-1. [Akun tiktok saya](tiktok.com/@algafbaru)
+1. Akun tiktok saya : @algafbaru
 
 Sertifikat dan Prestasi saya
 1. [Sertifikat HTML Free Code Camp](https://www.freecodecamp.org/certification/algaf/responsive-web-design)
