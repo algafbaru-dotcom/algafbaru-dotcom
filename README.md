@@ -1,4 +1,7 @@
 # ALGAF
+![Static Badge](https://img.shields.io/badge/%F0%9F%91%B6%20Junior%20Developer-green)
+![Static Badge](https://img.shields.io/badge/%F0%9F%8E%92%20Student-orange)
+
 
 ## A Little Bit About Me
 Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesia and I started getting into coding at the age of 13 because creating things is what I love the most. But my coding skills aren't expert-level yet in this coding world, so if there are any mistakes, please correct them and don't scold me. I also frequently leverage AI Agents to build cool projects. 
@@ -6,25 +9,25 @@ Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesi
 ## Technologies I Use
 
 ### 🌐 Markup Language
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="20" height="20" alt="HTML5"> ![Static Badge](https://img.shields.io/badge/HTML-orange)
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="20" height="20" alt="HTML5"> ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/%F0%9F%94%A5%20Expert-green)
 
 ### 🖼️ Styling Language
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="20" height="20" alt="CSS3"> ![Static Badge](https://img.shields.io/badge/CSS-blue)
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="20" height="20" alt="CSS3"> ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8D%20%20Intermediate-orange)
 
 
 ### 💻 Programming Languages
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="20" height="20" alt="Python"> ![Static Badge](https://img.shields.io/badge/Python-yellow)
-2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> ![Static Badge](https://img.shields.io/badge/Javascript-yellow)
-3. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="20" height="20" alt="PHP"> ![Static Badge](https://img.shields.io/badge/PHP-purple)
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="20" height="20" alt="Python"> ![Static Badge](https://img.shields.io/badge/Python-yellow) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8D%20%20Intermediate-orange)
+2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> ![Static Badge](https://img.shields.io/badge/Javascript-yellow) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8D%20%20Intermediate-orange)
+3. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="20" height="20" alt="PHP"> ![Static Badge](https://img.shields.io/badge/PHP-purple) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8D%20%20Intermediate-orange)
 
 
 ### 📟 CLI Programming Languages
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="20" height="20" alt="Bash"> ![Static Badge](https://img.shields.io/badge/Bash-gray)
-2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/aee77621-3aca-41cc-99e5-958e727cfdef" /> ![Static Badge](https://img.shields.io/badge/Powershell-blue)
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="20" height="20" alt="Bash"> ![Static Badge](https://img.shields.io/badge/Bash-gray) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%B6%20Begginer-red)
+2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/aee77621-3aca-41cc-99e5-958e727cfdef" /> ![Static Badge](https://img.shields.io/badge/Powershell-blue) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%B6%20Begginer-red)
 
 ### 🧩 Frameworks
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> ![Static Badge](https://img.shields.io/badge/Vue-brightgreen)
-2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="20" height="20" alt="Laravel"> ![Static Badge](https://img.shields.io/badge/Laravel-red)
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> ![Static Badge](https://img.shields.io/badge/Vue-brightgreen) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8D%20%20Intermediate-orange)
+2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="20" height="20" alt="Laravel"> ![Static Badge](https://img.shields.io/badge/Laravel-red) ![Static Badge](https://img.shields.io/badge/%F0%9F%91%B6%20Begginer-red)
 
 ### ⚙️ Runtime Environment
 1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="25" height="25" alt="Node "> ![Static Badge](https://img.shields.io/badge/Node.js-green)
@@ -47,7 +50,6 @@ Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesi
 ## Favorite & Frequently Used Programming Languages
 
 My favorite programming language right now is <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> JavaScript, because it's very versatile and has many great frameworks. For instance, the ones I use are <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> Vue 
-
 <hr>
 
 ## Get to Know Me Better
