@@ -1,6 +1,4 @@
-<img width="1000" height="250" alt="35df592e-3579-456a-ae85-630bf2ac52b3" src="https://github.com/user-attachments/assets/fe155782-c77b-4ee2-9674-b3dc067c70fb" />
-
-<hr>
+# ALGAF
 
 ## A Little Bit About Me
 Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesia and I started getting into coding at the age of 13 because creating things is what I love the most. But my coding skills aren't expert-level yet in this coding world, so if there are any mistakes, please correct them and don't scold me. I also frequently leverage AI Agents to build cool projects. 
@@ -8,39 +6,43 @@ Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesi
 ## Technologies I Use
 
 ### 🌐 Markup Language
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="20" height="20" alt="HTML5"> HTML
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="20" height="20" alt="HTML5"> ![Static Badge](https://img.shields.io/badge/HTML-orange)
 
 ### 🖼️ Styling Language
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="20" height="20" alt="CSS3"> CSS
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="20" height="20" alt="CSS3"> ![Static Badge](https://img.shields.io/badge/CSS-blue)
+
 
 ### 💻 Programming Languages
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="20" height="20" alt="Python"> Python
-2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> Javascript
-3. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="20" height="20" alt="PHP"> PHP
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="20" height="20" alt="Python"> ![Static Badge](https://img.shields.io/badge/Python-yellow)
+2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> ![Static Badge](https://img.shields.io/badge/Javascript-yellow)
+3. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="20" height="20" alt="PHP"> ![Static Badge](https://img.shields.io/badge/PHP-purple)
+
 
 ### 📟 CLI Programming Languages
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="20" height="20" alt="Bash"> Bash
-2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/aee77621-3aca-41cc-99e5-958e727cfdef" /> Powershell 
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="20" height="20" alt="Bash"> ![Static Badge](https://img.shields.io/badge/Bash-gray)
+2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/aee77621-3aca-41cc-99e5-958e727cfdef" /> ![Static Badge](https://img.shields.io/badge/Powershell-blue)
 
 ### 🧩 Frameworks
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> Vue
-2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="20" height="20" alt="Laravel"> Laravel
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js"> ![Static Badge](https://img.shields.io/badge/Vue-brightgreen)
+2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="20" height="20" alt="Laravel"> ![Static Badge](https://img.shields.io/badge/Laravel-red)
 
 ### ⚙️ Runtime Environment
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="25" height="25" alt="Node "> Node.js
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="25" height="25" alt="Node "> ![Static Badge](https://img.shields.io/badge/Node.js-green)
 
 ### ⚡ Local Server Application
-1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/2710a3c0-3637-4074-9918-ed39a93240cd" /> Laragon
+1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/2710a3c0-3637-4074-9918-ed39a93240cd" /> ![Static Badge](https://img.shields.io/badge/Laragon-cyan)
+
    
 ### 🗄️ Database Management
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="20" height="20" alt="MYSQL"> MySQL
-2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/036b62fe-41c9-43bf-a820-248072790b88" /> Php My Admin
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="20" height="20" alt="MYSQL"> ![Static Badge](https://img.shields.io/badge/MySQL-blue)
+2. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/036b62fe-41c9-43bf-a820-248072790b88" /> ![Static Badge](https://img.shields.io/badge/Php%20My%20Admin-red)
 
 ### 🤖 AI Agents
-1. <img width="20" height="20" alt="download" src="https://github.com/user-attachments/assets/be005748-e804-43b4-a44f-8ccb8a3f7752" /> Codex
+1. <img width="20" height="20" alt="download" src="https://github.com/user-attachments/assets/be005748-e804-43b4-a44f-8ccb8a3f7752" /> ![Static Badge](https://img.shields.io/badge/Codex-purple)
 
 ### ⌨️ Text Editor
-1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/5ab814fa-613a-40c5-9b9a-531f3eb4bfae" /> VS Code
+1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/5ab814fa-613a-40c5-9b9a-531f3eb4bfae" /> ![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
+
 
 ## Favorite & Frequently Used Programming Languages
 
