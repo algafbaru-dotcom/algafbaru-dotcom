@@ -61,7 +61,8 @@ Certificates and Achievements
 
 <hr>
 
+<img width="282" height="200" alt="200" src="https://github.com/user-attachments/assets/7bd475bf-38ae-41ee-999e-9bf290fff8eb" />
 
-> 💬 *"I will always choose a lazy person to do a difficult job. Because a lazy person will find an easy way to do it."* — **Bill Gates**
+> 💬 *"We live in a world where everyone is a zero or a one. You're either a zero, or you're a one."* — **Elliot Alderson**
 
 **THANKS FOR STOPPING BY 🙏**
