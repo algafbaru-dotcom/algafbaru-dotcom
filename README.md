@@ -1,4 +1,6 @@
-# Algaf
+<img width="1000" height="250" alt="35df592e-3579-456a-ae85-630bf2ac52b3" src="https://github.com/user-attachments/assets/fe155782-c77b-4ee2-9674-b3dc067c70fb" />
+
+<hr>
 
 ## A Little Bit About Me
 Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesia and I started getting into coding at the age of 13 because creating things is what I love the most. But my coding skills aren't expert-level yet in this coding world, so if there are any mistakes, please correct them and don't scold me. I also frequently leverage AI Agents to build cool projects. 
