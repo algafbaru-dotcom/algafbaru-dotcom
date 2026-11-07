@@ -52,11 +52,11 @@ My favorite programming language right now is <img src="https://raw.githubuserco
 
 ## Get to Know Me Better
 
-Social Media Accounts 
+### Social Media Accounts 
 
 1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/13ccd6b7-a239-4470-ae14-428531570c33" />  My TikTok account: @algafbaru
 
-Certificates and Achievements
+### Certificates and Achievements
 1. <img width="20" height="20" alt="download" src="https://github.com/user-attachments/assets/73e38913-1254-47cd-8586-69fb8afca0dc" /> [FreeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/algaf/responsive-web-design)
 
 <hr>
