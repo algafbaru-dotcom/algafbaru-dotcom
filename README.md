@@ -59,10 +59,24 @@ My favorite programming language right now is <img src="https://raw.githubuserco
 ### 🎖️ Certificates and Achievements
 1. <img width="20" height="20" alt="download" src="https://github.com/user-attachments/assets/73e38913-1254-47cd-8586-69fb8afca0dc" /> [FreeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/algaf/responsive-web-design)
 
-<hr>
 
-<img width="282" height="200" alt="200" src="https://github.com/user-attachments/assets/7bd475bf-38ae-41ee-999e-9bf290fff8eb" />
+<div align="center";data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-> 💬 *"We live in a world where everyone is a zero or a one. You're either a zero, or you're a one."* — **Elliot Alderson**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7bd475bf-38ae-41ee-999e-9bf290fff8eb" alt="Elliot Alderson" width="320" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  
+  <br/>
+  <br/>
 
-**THANKS FOR STOPPING BY 🙏**
+  <blockquote style="font-size: 16px; font-style: italic; color: #555; max-width: 500px; line-height: 1.6; border-left: none; margin: 0 auto;">
+    💬 "We live in a world where everyone is a zero or a one. You're either a zero, or you're a one."
+    <br/>
+    <strong style="color: #000; font-style: normal; display: block; margin-top: 8px;">— Elliot Alderson</strong>
+  </blockquote>
+</div>
+
+<div align="center">
+<b>THANKS FOR STOPPING BY 🙏</b>
+</div>
