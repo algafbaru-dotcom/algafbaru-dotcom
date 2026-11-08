@@ -1,4 +1,5 @@
-# 🧑‍💻 ALGAF
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4BF700&width=435&lines=Algaf)](https://git.io/typing-svg)
+
 ![Static Badge](https://img.shields.io/badge/%F0%9F%91%B6%20Junior%20Developer-green)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%8E%92%20Student-orange)
 
