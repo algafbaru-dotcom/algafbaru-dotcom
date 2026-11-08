@@ -3,10 +3,10 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%8E%92%20Student-orange)
 
 
-## A Little Bit About Me
+## 👤 A Little Bit About Me
 Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesia and I started getting into coding at the age of 13 because creating things is what I love the most. But my coding skills aren't expert-level yet in this coding world, so if there are any mistakes, please correct them and don't scold me. I also frequently leverage AI Agents to build cool projects. 
 
-## Technologies I Use
+## ⚙️ Technologies I Use
 
 ### 🌐 Markup Language
 1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="20" height="20" alt="HTML5"> ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/%F0%9F%94%A5%20Expert-green)
@@ -47,12 +47,12 @@ Hello everyone 👋🏻, my name is Alvaro and I go by Algaf. I am from Indonesi
 1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/5ab814fa-613a-40c5-9b9a-531f3eb4bfae" /> ![Static Badge](https://img.shields.io/badge/VS%20Code-blue)
 
 
-## Favorite & Frequently Used Programming Languages
+## ⭐ Favorite & Frequently Used Programming Languages
 
 My favorite programming language right now is <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="20" height="20" alt="Javascript"> ![Static Badge](https://img.shields.io/badge/Javascript-yellow), because it's very versatile and has many great frameworks. For instance, the ones I use are <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="20" height="20" alt="Vue.js">  ![Static Badge](https://img.shields.io/badge/Vue-brightgreen)
 <hr>
 
-## Get to Know Me Better
+## ❓ Get to Know Me Better
 
 ### 💬 Social Media Accounts 
 
