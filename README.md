@@ -1,4 +1,4 @@
-# ALGAF
+# 🧑‍💻 ALGAF
 ![Static Badge](https://img.shields.io/badge/%F0%9F%91%B6%20Junior%20Developer-green)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%8E%92%20Student-orange)
 
