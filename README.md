@@ -60,8 +60,11 @@ My favorite programming language right now is <img src="https://raw.githubuserco
 1. <img width="20" height="20" alt="images" src="https://github.com/user-attachments/assets/13ccd6b7-a239-4470-ae14-428531570c33" />  My TikTok account: @algafbaru
 
 ### 🎖️ Certificates and Achievements
+
 1. <img width="20" height="20" alt="download" src="https://github.com/user-attachments/assets/73e38913-1254-47cd-8586-69fb8afca0dc" /> [FreeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/algaf/responsive-web-design)
 
+### 🛠️ My Project
+2. [Text Quest : Kindness Club](https://github.com/algafbaru-dotcom/Text-Quest-Game-Kindness-Club)
 
 <div align="center";data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
